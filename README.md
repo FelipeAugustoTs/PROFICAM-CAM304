@@ -6,3 +6,5 @@ Os integrantes do grupo são: Airque Rubim de Assis, Bruno Moreira da Silva, Fel
 Obs1: Na parte do código onde tem: "/content/drive/My Drive/AttFaces", baixar os conteúdos da parta arquivos e colocar dentro de uma pasta com o nome "AttFaces".
 
 Obs2: Na parte do código onde tem: "/content/drive/My Drive/Lenna.png", baixar o arquivo .png que se encontra na pasta raiz.
+
+Arquivo Main: CodigoLab2_itv
